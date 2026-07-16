@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/banner.png" alt="Digital Twin Banner" width="100%">
 </p>
-# Digital Twin
 
 > **Building systems that continuously learn from the physical world.**
 
