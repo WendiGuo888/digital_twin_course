@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Digital Twin Banner" width="100%">
+  <img src="assets/Banner.png" alt="Digital Twin Banner" width="100%">
 </p>
 
 Open lectures, code, and practical tools for understanding the next generation of Digital Twins.
