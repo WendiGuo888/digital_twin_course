@@ -2,8 +2,6 @@
   <img src="assets/banner.png" alt="Digital Twin Banner" width="100%">
 </p>
 
-> **Building systems that continuously learn from the physical world.**
-
 Open lectures, code, and practical tools for understanding the next generation of Digital Twins.
 
 ![Open Course](https://img.shields.io/badge/Open-Course-6C63FF)
