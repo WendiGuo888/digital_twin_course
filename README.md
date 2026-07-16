@@ -15,7 +15,7 @@ This repository contains:
 - 🔬 Research case studies
 - 🚀 Future updates
 
-The goal is to explore how physics and AI can work together to build trustworthy intelligent systems.\
+The goal is to explore how physics and AI can work together to build trustworthy intelligent systems.
 ---
 
 ## Course Structure
@@ -48,8 +48,8 @@ A companion guidebook is included to help you understand the concepts beyond the
 
 It focuses on:
 
-- Physics-informed learning
 - Digital Twin fundamentals
+- Physics-informed learning
 - Battery modeling
 ---
 
@@ -63,4 +63,5 @@ MIT License
 ---
 
 > **Models help us understand reality.**
+> 
 > **Digital Twins help us improve it.**
