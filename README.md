@@ -1,8 +1,17 @@
-# digital_twin_course
+<p align="center">
+  <img src="assets/banner.png" alt="Digital Twin Banner" width="100%">
+</p>
+# Digital Twin
 
-> **Physics. AI. Engineering.**
+> **Building systems that continuously learn from the physical world.**
 
-An open lecture series on Digital Twins and Physics-Informed Machine Learning.
+Open lectures, code, and practical tools for understanding the next generation of Digital Twins.
+
+![Open Course](https://img.shields.io/badge/Open-Course-6C63FF)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626)
+![MIT License](https://img.shields.io/badge/License-MIT-8A5CF6)
+---
 
 ## Welcome
 Welcome to the official repository accompanying the **Digital Twin Lecture Series**.
