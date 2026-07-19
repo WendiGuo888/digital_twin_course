@@ -41,10 +41,6 @@ git clone https://github.com/WendiGuo888/Digital-Twin-Course.git
 
 Install the required packages
 
-```bash
-pip install -r requirements.txt
-```
-
 Open the notebook
 
 ```bash
