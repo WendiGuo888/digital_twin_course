@@ -50,7 +50,6 @@ It focuses on:
 
 - Digital Twin fundamentals
 - Physics-informed learning
-- Battery modeling
 ---
 
 ## Further Exploration
