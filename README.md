@@ -39,8 +39,6 @@ Clone the repository
 git clone https://github.com/WendiGuo888/Digital-Twin-Course.git
 ```
 
-Install the required packages
-
 Open the notebook
 
 ```bash
